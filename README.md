@@ -1,1 +1,2 @@
-# Proyecto1-Organizacion_de_Computadores-
+# Organizacion_de_Computadores-
+Estudiante: Andres David Osorio Moreno
